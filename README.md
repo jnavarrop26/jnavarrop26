@@ -13,6 +13,7 @@
 - 📫 Cómo llegar **jnavarrop@ucentral.edu.co**
 
 - ⚡ Dato curioso **Soy gracioso**
+<img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 <a href="https://twitter.com/janp0626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janp0626" height="30" width="40" /></a>
