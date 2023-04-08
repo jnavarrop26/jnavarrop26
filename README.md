@@ -2,10 +2,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/109053272/230734841-81892803-8dfb-4834-a7f1-a92cfcd4c89e.jpg)](https://github.com/jnavarrop26/jnavarrop26)
 
 
-
-
 <h1 align="center">Hola 👋, soy Jose Navarro</h1><h3 align="center">Un Apasionado desarrollador Backend de Colombia</h3>
-
+<img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
 
 - 📍Actualmente estoy trabajando en **AgroChain - Aplicacion**
 - 😎Actualmente estoy aprendiendo **Frameworks, HTML, CSS, JavaScript**
@@ -13,14 +11,14 @@
 - 📫 Cómo llegar **jnavarrop@ucentral.edu.co**
 
 - ⚡ Dato curioso **Soy gracioso**
-<img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
+
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 <a href="https://twitter.com/janp0626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janp0626" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/jose-navarro-b0361b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-navarro-b0361b23b" height="30" width="40" /></a>
 <a href="https://instagram.com/ujooose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujooose" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left">
-<img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
+
 
 
 
