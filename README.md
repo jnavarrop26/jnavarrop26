@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/109053272/230793509-e2d5113d-0de1-4f11-85de-131f68e7c5e4.png)](https://github.com/jnavarrop26/jnavarrop26)
 
 
-<h1 align="center">Hola 👋, Jose Navarro</h1><h3 align="center">Un Apasionado Estudiante de Desarrollo Backend de Colombia</h3>
+<h1 align="center"></h1><h3 align="center"></h3>
 <img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif"
 
 
