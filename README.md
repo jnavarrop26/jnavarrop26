@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/109053272/230734841-81892803-8dfb-4834-a7f1-a92cfcd4c89e.jpg)](https://github.com/jnavarrop26/jnavarrop26)
+[![MasterHead](https://user-images.githubusercontent.com/109053272/230793509-e2d5113d-0de1-4f11-85de-131f68e7c5e4.png)](https://github.com/jnavarrop26/jnavarrop26)
 
 
 <h1 align="center">Hola 👋, Jose Navarro</h1><h3 align="center">Un Apasionado Estudiante de Desarrollo Backend de Colombia</h3>
