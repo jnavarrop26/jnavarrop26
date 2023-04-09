@@ -1,11 +1,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/109053272/230793509-e2d5113d-0de1-4f11-85de-131f68e7c5e4.png)](https://github.com/jnavarrop26/jnavarrop26)
-
-
 <h1 align="center"></h1><h3 align="center"></h3>
 <img align="right" alt="Codificación" width="400" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif"
-
-
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 <a href="https://twitter.com/janp0626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janp0626" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jose-navarro-b0361b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-navarro-b0361b23b" height="30" width="40" /></a>
