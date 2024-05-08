@@ -4,13 +4,17 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Jose Navarro and I'm a ..., from ....</h3>
+<h3 align="left" style="font-type">Hi 👋! My name is Jose Navarro and I'm a ..., from ....</h3>
 
 ###
 
+
 <br clear="both">
 
+<h3 align="left"> Lenguaje and Tools </h3>
+
 <div align="center">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
