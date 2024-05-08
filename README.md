@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="img/portada-github.jpg"  />
+  <img height="150" src="https://github.com/jnavarrop26/jnavarrop26/blob/main/img/portada-github.jpg"  />
 </div>
 
 ###
