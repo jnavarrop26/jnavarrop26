@@ -4,13 +4,13 @@
   <img height="100" src="img/portada-github.jpg"  />
 </div>
 
-###
+### About me
 
 <br clear="both">
 
 <h5 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h5>
 
-###
+### Languages and Tools
 
 <br clear="both">
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
 </div>
 
-###
+### Social Media
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -56,13 +56,13 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="85" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" style="display: block;" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="85" alt="languages graph" style="display: block;" /> <br>
+  <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5" height="120" alt="streak graph" style="display: block;"  />
 </div>
 
-###
+### Commit 👨‍💻
 
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
 
