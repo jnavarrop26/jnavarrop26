@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left" style="font-type">Hi 👋! My name is Jose Navarro and I'm a ..., from ....</h3>
+<h3 align="center" style="font-type: 'Courier New', Courier, monospace ">Hi 👋! My name is Jose Navarro and I'm a ..., from ....</h3>
 
 ###
 
