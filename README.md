@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="/img/portada-github.jpg"  />
+  <img height="100" src="img/portada-github.jpg"  />
 </div>
 
 ###
@@ -56,10 +56,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="85" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
 </div>
 
 ###
