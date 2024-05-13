@@ -2,8 +2,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" width="1920" radius="10px" src="img/portada-github.jpg"  />
+  <img height="200" width="1920" style="border-radius: 20px;" src="img/portada-github.jpg"  />
 </div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Hi+There+👋;+I'm+Jose+Navarro;" />
