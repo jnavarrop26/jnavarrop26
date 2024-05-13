@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="320" width="1560" src="img/portada-github.jpg"  />
+  <img height="300" width="1560" src="img/portada-github.jpg"  />
 </div>
 
 ### About me
 
-<br clear="both">
+<br clear="both">t a
 
 <h5 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h5>
 
