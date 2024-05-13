@@ -6,9 +6,6 @@
 </div>
 
 
-
-
-
 <h3 align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
 
@@ -17,7 +14,6 @@
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></h3>
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
@@ -57,9 +53,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
-
-<br clear="both">
 
 <div style="text-align: right;">
   <div style="display: inline-block; margin-right: 10px;">
