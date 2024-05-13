@@ -6,20 +6,20 @@
 </div>
 
 
-<h3 align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
+<h3 align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
 
 <h6 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h6>
 
 
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=1000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></h3>
 
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postman,kubernetes,vscode,idea,github,git,html,css,figma,mysql,mongodb,aws)](https://skillicons.dev)
 </div>
 
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=7000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'm+currently+learning" alt="Typing SVG" /></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=7000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'm+currently+learning" alt="Typing SVG" /></h3>
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 </div>
 
 
-<h3 align="center"> Sociale Media </h3>
+<h3 align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Social+Media" alt="Typing SVG" /></h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,7 +44,7 @@
 </div>
 
 
-### Commit 👨‍💻
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Commit" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
 
