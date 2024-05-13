@@ -9,13 +9,13 @@
 
 
 
-<a align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></a>
+<h3 align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
 <br clear="both">
 <h6 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h6>
 
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></a>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></h3>
 
 <br clear="both">
 
