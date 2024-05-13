@@ -45,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,github,git,html,css,wasm)](https://skillicons.dev)
+
 <h3 align="center"> Sociale Media </h3>
 
 <div align="center">
