@@ -6,13 +6,13 @@
 </div>
 <hr/>
 
-<h3 align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=7000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
+<h3 align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
 
 <h6 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h6>
 
 
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=7000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&random=false&width=435&lines=Frameworks+-+Tools+-+Languages" alt="Typing SVG" /></h3>
 
 
 <div align="center">
