@@ -2,14 +2,14 @@
 <br clear="both">
 <hr/>
 <div align="center">
-  <img height="250" width="1080" style="border-radius: 20px;" src="img/portada-github.jpg"  />
+  <img height="220" width="1080" style="border-radius: 20px;" src="img/portada-github.jpg"  />
 </div>
 <hr/>
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
 
-<h6 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h6>
+<h5 align="center" style="font-family: Montserrat; ">Hey there, I'm José, a Colombian engineering student who's all about Software Development. I geek 🫠 out as a Backend Developer and have cooked up a bunch of projects in this realm. My aim? To throw all that knowledge into the mix, make some waves in projects, and show off my skills while I keep on learning and growing in this awesome world.</h5>
 
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&random=false&width=435&lines=Frameworks+-+Tools+-+Languages" alt="Typing SVG" /></h3>
