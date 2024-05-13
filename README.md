@@ -18,9 +18,9 @@
   [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postman,kubernetes,vscode,idea,github,git,html,css,figma,mysql,mongodb,aws)](https://skillicons.dev)
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=7000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'm+currently+learning" alt="Typing SVG" /></a>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=7000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'm+currently+learning" alt="Typing SVG" /></h3>
 
-<div>
+<div align="center">
   [![My Skills](https://skillicons.dev/icons?i=js,graphql,react,ts)](https://skillicons.dev)
 </div>
 
