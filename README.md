@@ -6,9 +6,7 @@
 </div>
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Hi+There+👋;+I'm+Jose+Navarro;" />
-</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></a>
 
 
 <h3 align="center"> About me </h3>
