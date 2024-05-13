@@ -17,7 +17,8 @@
 <hr/>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postman,kubernetes,vscode,idea,github,git,html,css,figma,mysql,mongodb,maven)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,git,maven)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,postman,kubernetes,vscode,github,html,css,figma,mysql,mongodb)](https://skillicons.dev)
 
 </div>
 <hr/>
