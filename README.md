@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<div style="text-align: center;">
+<div style="text-align: right;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" style="display: block; border-radius: 20px;" />
   </div>
