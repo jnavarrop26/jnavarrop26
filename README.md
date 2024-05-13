@@ -11,7 +11,7 @@
 
 <h3 align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
-<br clear="both">
+
 <h6 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h6>
 
 
@@ -61,10 +61,16 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" style="display: block;" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="85" alt="languages graph" style="display: block;" /> <br>
-  <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5" height="120" alt="streak graph" style="display: block;"  />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" style="display: block; border-radius: 20px;" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="120" alt="languages graph" style="display: block; border-radius: 20px;" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=20" height="120" alt="streak graph" style="display: block; border-radius: 20px;" />
+  </div>
 </div>
 
 ### Commit 👨‍💻
