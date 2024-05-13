@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="4000" width="1500" src="img/portada-github.jpg"  />
+  <img height="200" width="1500" src="img/portada-github.jpg"  />
 </div>
 
 ### About me
