@@ -6,11 +6,10 @@
 
 ### About me
 
-<br clear="both">t a
-
+<br clear="both">
 <h5 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h5>
 
-### Languages and Tools
+<h3 style="text-align: center;"> Languages and Tools </h3>
 
 <br clear="both">
 
