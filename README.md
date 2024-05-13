@@ -61,17 +61,18 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
+<div style="text-align: center;">
+  <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=monokai&locale=en&hide_border=true" height="120" alt="stats graph" style="display: block; border-radius: 20px;" />
   </div>
-  <div style="flex: 1;">
+  <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true" height="120" alt="languages graph" style="display: block; border-radius: 20px;" />
   </div>
-  <div style="flex: 1;">
+  <div style="display: inline-block;">
     <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=20" height="120" alt="streak graph" style="display: block; border-radius: 20px;" />
   </div>
 </div>
+
 
 ### Commit 👨‍💻
 
