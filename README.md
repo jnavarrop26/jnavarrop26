@@ -1,15 +1,20 @@
+
 <br clear="both">
 
 <div align="center">
   <img height="200" width="1920" radius="10px" src="img/portada-github.jpg"  />
 </div>
 
-### About me
+<h3 align="center"> About me </h3>
 
 <br clear="both">
 <h5 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h5>
 
-<h3 align="center"> Languages and Tools </h3>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=50&duration=4000&lines=Languages - Frameworks - Tools + 👨‍💻;" />
+</h3>
+
 
 <br clear="both">
 
@@ -43,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" alt="github logo"  />
 </div>
 
-### Social Media
+<h3 align="center"> Sociale Media </h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
