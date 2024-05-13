@@ -11,9 +11,9 @@
 <h5 align="center">Hi 🤙! My name is Jose. and I'm a , from Colombia</h5>
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=50&duration=4000&lines=Languages - Frameworks - Tools + 👨‍💻;" />
-</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jose+Navarro;" />
+</h1>
 
 
 <br clear="both">
