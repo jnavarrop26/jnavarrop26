@@ -51,5 +51,6 @@
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Commit" alt="Typing SVG" /></a>
 
+<hr/>
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
-
+<hr/>
