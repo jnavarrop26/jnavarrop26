@@ -14,10 +14,14 @@
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=1000&color=F7F7F7&center=true&random=false&width=435&lines=Frameworks+-+Tools+-+language" alt="Typing SVG" /></h3>
 
-<div align="center">
-
+<hr>
+  <div align="center">
+  
   [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postman,kubernetes,vscode,idea,github,git,html,css,figma,mysql,mongodb,aws)](https://skillicons.dev)
-</div>
+  
+  </div>
+</hr>
+
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen=7000&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=I'm+currently+learning" alt="Typing SVG" /></h3>
 
@@ -48,5 +52,4 @@
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Commit" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
-
 
