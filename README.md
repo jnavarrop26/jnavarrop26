@@ -36,6 +36,7 @@
 </div>
 
 
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vision-friendly-dark&hide_border=true" height="107" alt="languages graph"  />
@@ -48,4 +49,4 @@
 
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
 
-###
+
