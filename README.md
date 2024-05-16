@@ -2,7 +2,7 @@
 <br clear="both">
 <hr/>
 <div align="center">
-  <img height="220" width="1080" style="border-radius: 20px;" src="img/portada-github.jpg"  />
+  <img height="300" width="1080" style="border-radius: 20px;" src="img/portada-github.jpg"  />
 </div>
 <hr/>
 
