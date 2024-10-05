@@ -1,9 +1,7 @@
 
 <br clear="both">
-<hr/>
-<div align="center">
-  <img src="https://img1.wsimg.com/isteam/ip/23944649-2ef8-4147-a4b4-6f57c00c6115/blob-b4af893.png/:/rs=w:828,h:225,cg=true,m/cr=w:828,h:225/qt=q:95" alt="Wind Energy Estimator">
-</div>
+
+
 
 <h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&random=false&width=435&lines=About+me" alt="Typing SVG" /></h3>
 
