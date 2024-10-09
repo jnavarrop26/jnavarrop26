@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" widht="700" src="https://github.com/jnavarrop26/jnavarrop26/blob/main/img/portada-github.png"  />
+  <img height="800" widht="900" src="https://github.com/jnavarrop26/jnavarrop26/blob/main/img/portada-github.png"  />
 </div>
 
 <br clear="both">
