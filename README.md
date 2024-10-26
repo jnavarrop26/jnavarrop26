@@ -8,9 +8,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=25&pause=1000&color=F7D418&center=true&vCenter=true&width=435&lines=About+Me😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jaro&size=25&pause=1000&color=F7D418&center=true&vCenter=true&width=435&lines=About+Me😎)](https://git.io/typing-svg) <h2> Software Engineering Student</h2>
 
-<h2> Software Engineering - Web Developer </h2>
 </div>
 
 
@@ -80,8 +79,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@_jnavarrop-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/_jnavarrop)
 [![Instagram](https://img.shields.io/badge/Instagram-@_jnavarrop-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/_jnavarrop/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-navarro-b0361b23b/)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![Portfolio](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 
 
