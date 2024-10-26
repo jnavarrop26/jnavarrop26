@@ -75,12 +75,13 @@
 
 <h3 align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Social+Media" alt="Typing SVG" /></h3>
 
+<div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-@_jnavarrop-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/_jnavarrop)
 [![Instagram](https://img.shields.io/badge/Instagram-@_jnavarrop-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/_jnavarrop/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Navarro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-navarro-b0361b23b/)
 
-
+</div>
 
 <br clear="both">
 
@@ -92,17 +93,3 @@
 
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
 
-
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    gap: 10px; 
-  }
-  .column {
-    flex: 1;
-    border: 1px solid black whi; 
-    padding: 10px;
-  }
-
-</style>
