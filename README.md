@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Jaro:wght@400;700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <img height="250" widht="1280" src="https://github.com/jnavarrop26/jnavarrop26/blob/main/img/portada-github.png"  />
+  <img style="max-width: 100%; height: auto;" src="https://github.com/jnavarrop26/jnavarrop26/blob/main/img/portada-github.png" alt="Portada GitHub" />
 </div>
 
 <div align="center">
