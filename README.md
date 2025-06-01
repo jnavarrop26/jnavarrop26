@@ -34,10 +34,11 @@
 </div>
 
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnavarrop26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vision-friendly-dark&hide_border=true" height="105" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=vision-friendly-dark&locale=en&hide_border=true" height="105" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jnavarrop26&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5" height="105" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jnavarrop26&theme=buefy&show_icons=true&hide_border=true&count_private=true" height="105" alt="jnavarrop26's GitHub Stats"  />
+  <img src="https://streak-stats.demolab.com?user=jnavarrop26&theme=buefy&hide_border=true" height="105 alt="jnavarrop26's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarrop26&theme=buefy&show_icons=true&hide_border=true&layout=compact" height="105" alt="jnavarrop26's GitHub Stats" />
 </div>
 
 <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
