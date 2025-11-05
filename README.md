@@ -14,14 +14,25 @@
 <p align="center" style="font-family: ; ">Hey there, I'm José, a Colombian Software engineering student who's all about Software Development. I geek 🫠 out as a Backend Developer and have cooked up a bunch of projects in this realm. My aim? To throw all that knowledge into the mix, make some waves in projects, and show off my skills while I keep on learning and growing in this awesome world.</p>
 <hr/>
 
-| Frontend | Backend |
-|----------|---------|
-|[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,vite,vscode&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,python,django,idea,pycharm&theme=light)](https://skillicons.dev) |
-
-
-| DataBase  | Tools |
-|----------|---------|
-|[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman&theme=light)](https://skillicons.dev) |
+```
+const Jose Navarro = {
+  pronouns: "he" | "him",
+  location: "Bogotá D.C, Colombia",
+  code: ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Bash"],
+  frontend: ["Angular", "TailwindCSS"],
+  backend: ["Spring Boot", "Spring MVC", "Spring Data JPA", "Spring WS", "Spring GraphQL", "Spring AI", "Django", "Django REST Framework", "Hibernate"],
+  architecture: ["MVC", "Layered Architecture", "RESTful", "SOLID Principles"],
+  apis_protocols: ["REST", "GraphQL", "SOAP", "gRPC", "HTTP/HTTPS", "Web Services"],
+  databases: ["PostgreSQL", "Django ORM", "Spring Data JPA"],
+  data_science: ["NumPy", "Pandas", "SciPy", "Matplotlib", "Seaborn"],
+  tools: ["Git", "GitHub", "Docker", "Maven", "Gradle", "Postman", "IntelliJ IDEA", "PyCharm", "VSCode", "DataGrip", "AWS"],
+  modeling: ["UML", "ER Diagrams", "Use Cases", "Class Diagrams", "Sequence Diagrams", "Component Diagrams"],
+  standards: ["ISO/IEC/IEEE 29148-2011", "IEEE 29119-3", "ISO/IEC 25010"],
+  os_networking: ["Linux", "Shell Scripting", "TCP/IP", "OSI Model", "DNS", "DHCP", "Firewalls", "VPN", "Proxy", "Load Balancing"],
+  methodologies: ["Agile"],
+  languages: ["Spanish (Native)", "English (B2)"]
+}
+```
 
 
 <h3 align="center"> Social Media </h3>
