@@ -14,7 +14,7 @@
 <p align="center" style="font-family: ; ">Hey there, I'm José, a Colombian Software engineering student who's all about Software Development. I geek 🫠 out as a Backend Developer and have cooked up a bunch of projects in this realm. My aim? To throw all that knowledge into the mix, make some waves in projects, and show off my skills while I keep on learning and growing in this awesome world.</p>
 <hr/>
 
-```
+```javascript
 const Jose Navarro = {
   pronouns: "he" | "him",
   location: "Bogotá D.C, Colombia",
