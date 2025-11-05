@@ -15,20 +15,19 @@
 <hr/>
 
 ```javascript
-const Jose Navarro = {
+const joseNavarro = {
   pronouns: "he" | "him",
-  location: "Bogotá D.C, Colombia",
-  code: ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS", "SQL", "PSQL" "Bash"],
-  frontend: ["Angular", "TailwindCSS"],
-  backend: ["Spring Boot", "Spring MVC", "Spring Data JPA", "Spring WS", "Spring GraphQL", "Spring AI", "Django", "Django REST Framework", "Hibernate"],
-  apis_protocols: ["REST", "GraphQL", "SOAP"],
-  databases: ["PostgreSQL", "Django ORM", "Spring Data JPA"],
-  tools: ["Git", "GitHub", "Docker", "Maven", "Gradle", "Bun", "Postman", "IntelliJ IDEA", "PyCharm", "VSCode", "DataGrip", "AWS"],
-  modeling: ["UML"],
-  standards: ["ISO/IEC/IEEE 29148-2011", "IEEE 29119-3", "ISO/IEC 25010"],
-  os_networking: ["Linux", "Shell Scripting", "TCP/IP", "OSI Model", "DNS", "DHCP", "Firewalls", "VPN", "Proxy", "Load Balancing"],
-  methodologies: ["Agile"],
-  languages: ["Spanish (Native)", "English (B2)"]
+  code: [Java, Python, JavaScript, TypeScript, HTML, CSS, SQL, PSQL, Bash],
+  frontend: [Angular, TailwindCSS],
+  backend: [Spring Boot, Spring MVC, Spring Data JPA, Spring WS, Spring GraphQL, Spring AI, Django, Django REST Framework, Hibernate],
+  apis_protocols: [REST, GraphQL, SOAP],
+  databases: [PostgreSQL, Django ORM, Spring Data JPA],
+  tools: [Git, GitHub, Docker, Maven, Gradle, Bun, Postman, IntelliJ IDEA, PyCharm, VSCode, DataGrip, AWS],
+  modeling: [UML],
+  standards: [ISO/IEC/IEEE 29148-2011, IEEE 29119-3, ISO/IEC 25010],
+  os_networking: [Linux, Shell Scripting, TCP/IP, OSI Model, DNS, DHCP, Firewalls, VPN, Proxy, Load Balancing],
+  methodologies: [Agile],
+  languages: [Spanish (Native), English (B2)]
 }
 ```
 
