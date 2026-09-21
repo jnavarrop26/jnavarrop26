@@ -1,12 +1,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Jaro:wght@400;700&display=swap" rel="stylesheet">
 
-<div align="center">
-  <h1>José Navarro</h1>
-  <h2> Systems Engineering </h2>
-</div>
-
-
-
+<p align="center">
+  <img src="Frame%202.png" alt="JANP logo" width="200" />
+</p>
 
 <p align="center">
 Hey there, I'm José — a Colombian Systems Engineering student passionate about Software Development. I specialize as a Backend Developer, with 2+ years of experience building APIs, services, and distributed/parallel systems. My goal is to keep applying what I learn to real projects, make an impact wherever I contribute, and continue growing in this ever-evolving world of software.
@@ -32,3 +28,4 @@ const joseNavarro = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/jnavarrop26/jnavarrop26/output/snake.svg" alt="Snake animation" />
 </div>
+
